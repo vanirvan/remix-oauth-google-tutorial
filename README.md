@@ -1,6 +1,6 @@
-# remix-auth-oauth2 example repo
+# remix-auth-oauth2 example repo with Google as signin method
 
-Example repo for using [`remix-auth`](https://github.com/sergiodxa/remix-auth) and [`remix-auth-oauth2`](https://github.com/sergiodxa/remix-auth-oauth2) package to do authentication in Remix.js.
+Example repo for using [`remix-auth`](https://github.com/sergiodxa/remix-auth) and [`remix-auth-oauth2`](https://github.com/sergiodxa/remix-auth-oauth2) package to do authentication in [Remix.js](https://remix.run/) with Google as signin method.
 
 # Installation
 
